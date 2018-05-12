@@ -1,0 +1,28 @@
+_repo: The-Beginner-s-American-History_18127
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18127-h/images/009columbusdiscovery.jpg
+creator:
+  author:
+    agent_name: Montgomery, D. H. (David Henry)
+    alias: Montgomery, David Henry
+    birthdate: 1837
+    deathdate: 1928
+    gutenberg_agent_id: '7342'
+    url: http://www.gutenberg.org/2009/agents/7342
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2006-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History'
+- !lcc 'E151'
+title: The Beginner's American History
+url: http://www.gutenberg.org/ebooks/18127
